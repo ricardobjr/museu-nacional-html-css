@@ -1,7 +1,7 @@
 <h1> museu-nacional-html-css </h1>
 
 ### The project was developed with the aim of applying basic html and css3 concepts, with the objective of simulating the web page of a fictional museum. 
-In it we can find one file in HTML format and a folder containing twelve images. The project allows the user to see how '<section>' and '<article>' tags can be applied using HTML5 in conjunction with CSS3.
+In it we can find one file in HTML format and a folder containing twelve images. The project allows the user to see how <strong>'section'</strong> and <strong>'article'</strong> tags can be applied using HTML5 in conjunction with CSS3.
 
 >✔️ Status: finished.
 
